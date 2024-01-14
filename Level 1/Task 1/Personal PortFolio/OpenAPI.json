@@ -1,0 +1,15 @@
+{
+  "openapi": "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",
+  "info": {
+    "title": "OpenAPI",
+    "description": "Title",
+    "version": "1.0.0"
+  },
+  "servers": [
+    {
+      "url": "https://platform.openai.com/"
+    }
+  ],
+  "paths": {
+  }
+}
